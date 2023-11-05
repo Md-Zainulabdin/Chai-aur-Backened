@@ -1,0 +1,20 @@
+{
+  "name": "chai-backened",
+  "version": "1.0.0",
+  "description": "A Complete backened series with \"Hitesh Choudary\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Backened"
+  ],
+  "author": "M Zain-ul-Abdin Ansari",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3"
+  }
+}
